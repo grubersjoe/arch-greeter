@@ -2,4 +2,4 @@
 
 A little [Archey3](https://github.com/lclarkmichalek/archey3) like (much simpler) Arch Linux greeter for the command line written in C.
 
-<img src='preview.png' width='50%'>
+![Screenshot ARch Greeter](https://res.cloudinary.com/grubersjoe/image/upload/v1542626492/portfolio/arch-greeter.jpg "Screenshot")
